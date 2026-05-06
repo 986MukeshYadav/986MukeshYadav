@@ -1,10 +1,11 @@
 # 💫 Hi 👋, I'm Mukesh Kumar Yadav
 **A passionate Frontend Developer | React.js | Next.js | TypeScript from Nepal**
 
-🌐 Portfolio 👉 https://yadavmukeshkumar.com.np/
 Email Me 👉 ✉️ **mukeshkumar18855@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🔗 I am a Frontend Developer. 😊😊
+## 🌐 Portfolio
+🚀 Check out my work: https://yadavmukeshkumar.com.np/
 <!-- Snake Game Repo View -->
 
 <div align="center">
